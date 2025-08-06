@@ -24,7 +24,7 @@ This is AT-For-Adversarial-Attack
 </pre>
 
 ## ⬇️ Download Adversarial checkpoints
-We use the adversarial training model provided as a pretrained model in [ARES 2.0](https://github.com/thu-ml/ares)
+For ImageNet dataset, we use the adversarial training model provided as a pretrained model in [ARES 2.0](https://github.com/thu-ml/ares)
 
 ## 📂 File Explanation
 - The `PGD_train` folder contains the code implementation of the PGD (Projected Gradient Descent) adversarial attack.
