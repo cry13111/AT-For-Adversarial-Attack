@@ -1,0 +1,7 @@
+numpy==1.26.4
+torch==2.5.1
+torchvision==0.20.1
+timm==1.0.15
+tqdm==4.56.2
+opencv==4.10.0
+pillow==11.1.0
